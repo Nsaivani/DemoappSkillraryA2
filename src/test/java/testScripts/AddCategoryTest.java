@@ -1,6 +1,7 @@
 package testScripts;
 
 import java.util.Map;
+//This test is used to add user to the application
 
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
